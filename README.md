@@ -1,2 +1,21 @@
-# resumoApiREST
-Resumo sobre Api Rest e a implementação RESTFul além dos verbos http e http status code. 
+###### Resumo Api Rest <h6>
+
+#### Api REST e RESTFul <h4>
+
+
+
+#### Diferenças entre REST e RESTFul <h4>
+
+
+
+#### HTTP verbs <h4>
+
+
+
+#### HTTP Status Code <h4>
+
+
+
+---
+
+Autor do resumo: Giovanna Pergentino - 01565341
