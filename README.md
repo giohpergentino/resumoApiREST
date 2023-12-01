@@ -13,6 +13,7 @@ Algumas APIs, como SOAP ou XML-RPC, impõe um framework restrito para os desenvo
 6. Código sob demanda (opcional).
 
 *Como as APIs de REST funcionam:*
+
 As APIs de REST se comunicam via solicitações de HTTP para executar funções padrão do banco de dados como criar, ler, atualizar e excluir registros (também conhecidos como CRUD) em um recurso. Por exemplo, uma API de REST usaria uma solicitação GET para recuperar um registro, uma solicitação POST para criar um registro, uma solicitação PUT para atualizar um registro e uma solicitação DELETE para excluir um registro. Todos os métodos HTTP podem ser usados em chamadas da API. Uma API de REST bem projetada é semelhante a um website em execução em um navegador da web com funcionalidade HTTP integrada.
 
 A *API RESTful* é uma interface que dois sistemas de computador usam para trocar informações de forma segura pela internet. A maioria das aplicações de negócios precisa se comunicar com outras aplicações internas e de terceiros para executar várias tarefas. Por exemplo, para gerar contracheques mensais, seu sistema interno de contas precisa compartilhar dados com o sistema bancário de seu cliente a fim de automatizar o faturamento e se comunicar com uma aplicação interna de planilha de horas. As APIs RESTful suportam essa troca de informações porque seguem padrões de comunicação de software seguros, confiáveis e eficientes.
@@ -38,8 +39,12 @@ Referência: <https://aws.amazon.com/pt/what-is/restful-api/>, <https://www.ibm.
 *Diferenças Chave:*
 
 *REST* é uma arquitetura, enquanto *RESTful* é a implementação dessa arquitetura.
+
 *REST* é um conjunto de princípios, enquanto *RESTful* é a aplicação desses princípios.
-Portanto, todos os serviços RESTful são REST, mas nem todos os serviços REST são necessariamente RESTful, dependendo de quão estritamente eles aderem aos princípios do REST. O termo "RESTful" é frequentemente usado para descrever serviços web que seguem de perto os princípios do REST.
+
+Portanto, todos os serviços RESTful são REST, mas nem todos os serviços REST são necessariamente RESTful, dependendo de quão estritamente eles aderem aos princípios do REST. 
+
+O termo "RESTful" é frequentemente usado para descrever serviços web que seguem de perto os princípios do REST.
 
 Referência: <https://aws.amazon.com/pt/what-is/restful-api/>
 
