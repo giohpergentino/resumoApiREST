@@ -1,4 +1,4 @@
-##### *Resumo Api Rest* <h5>
+#### RESUMO API REST <h4> 
 
 #### Api REST e RESTFul <h4>
 
@@ -21,7 +21,27 @@ Referência: <https://aws.amazon.com/pt/what-is/restful-api/>, <https://www.ibm.
 
 #### Diferenças entre REST e RESTFul <h4>
 
+*REST* é uma arquitetura de estilo para projetar sistemas de software na web.
+*Características Principais:*
+*Baseia-se no conceito de recursos (resouces), que são identificados por URLs.
+*Utiliza métodos HTTP (GET, POST, PUT, DELETE) para operar sobre esses recursos.
+*Não mantém estado entre as solicitações do cliente; cada solicitação do cliente para o servidor contém toda a informação necessária para entender e processar a solicitação.
+*Responde com representações dos recursos no formato desejado (JSON, XML, HTML, etc.).
 
+*RESTful* é uma abordagem específica para implementar serviços web usando os princípios do REST.
+*Características Principais:*
+*Usa URIs (Uniform Resource Identifiers) para identificar recursos.
+*Utiliza métodos HTTP (GET, POST, PUT, DELETE) para operar sobre esses recursos.
+*Responde com representações dos recursos no formato desejado.
+*Geralmente, segue os princípios do REST de maneira rigorosa.
+
+*Diferenças Chave:*
+
+*REST* é uma arquitetura, enquanto *RESTful* é a implementação dessa arquitetura.
+*REST* é um conjunto de princípios, enquanto *RESTful* é a aplicação desses princípios.
+Portanto, todos os serviços RESTful são REST, mas nem todos os serviços REST são necessariamente RESTful, dependendo de quão estritamente eles aderem aos princípios do REST. O termo "RESTful" é frequentemente usado para descrever serviços web que seguem de perto os princípios do REST.
+
+Referência: <https://aws.amazon.com/pt/what-is/restful-api/>
 
 #### HTTP verbs <h4>
 
