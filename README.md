@@ -38,13 +38,13 @@ Referência: <https://aws.amazon.com/pt/what-is/restful-api/>, <https://www.ibm.
 
 *Diferenças Chave:*
 
-*REST* é uma arquitetura, enquanto *RESTful* é a implementação dessa arquitetura.
+* *REST* é uma arquitetura, enquanto *RESTful* é a implementação dessa arquitetura.
 
-*REST* é um conjunto de princípios, enquanto *RESTful* é a aplicação desses princípios.
+* *REST* é um conjunto de princípios, enquanto *RESTful* é a aplicação desses princípios.
 
-Portanto, todos os serviços RESTful são REST, mas nem todos os serviços REST são necessariamente RESTful, dependendo de quão estritamente eles aderem aos princípios do REST. 
+* Portanto, todos os serviços RESTful são REST, mas nem todos os serviços REST são necessariamente RESTful, dependendo de quão estritamente eles aderem aos princípios do REST. 
 
-O termo "RESTful" é frequentemente usado para descrever serviços web que seguem de perto os princípios do REST.
+* O termo "RESTful" é frequentemente usado para descrever serviços web que seguem de perto os princípios do REST.
 
 Referência: <https://aws.amazon.com/pt/what-is/restful-api/>
 
